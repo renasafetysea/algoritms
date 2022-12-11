@@ -182,4 +182,3 @@ public class IntegerListImpl implements IntegerList {
         return false;
     }
     }
-}
